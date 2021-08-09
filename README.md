@@ -1,4 +1,7 @@
 # flight-controller
+
+### Work in progress
+
 Firmware for quadrotor flight controller.
 
 ### FC Hardware:
